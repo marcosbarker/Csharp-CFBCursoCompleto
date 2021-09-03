@@ -8,7 +8,7 @@ class Aula19 {
     for (int i=0; i < num.Length; i++) {
       num[i] = 0;
 
-      Console.WriteLine("Teste de repetição, valor: " + i);
+      Console.WriteLine("Teste de repetição, valor: " + num[i]);
     }
   }
 }
