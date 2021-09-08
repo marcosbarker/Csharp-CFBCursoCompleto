@@ -1,8 +1,8 @@
 <div align="center">
 <img height="200px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_original_logo_icon_146578.png" alt="logoC#" />
 </div>
-<h1 align="center">CFB CURSOS</h1><br>
-<h2 align="center">CURSO PROGRAMAÇÃO COMPLETO C#</h2>
+<h1 align="center">CFB CURSOS<br>
+CURSO PROGRAMAÇÃO COMPLETO C#</h1>
 
 - 01 [Introdução](aula01/Aula01.cs)
 - 02 [Primeiro teste](aula02/)
