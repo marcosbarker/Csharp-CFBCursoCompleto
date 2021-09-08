@@ -1,7 +1,6 @@
-<p align="center">
-<h1>CFB CURSOS</h1><br>
-<h2>CURSO PROGRAMAÇÃO COMPLETO C#</h2>
-<p>
+<h1 align="center">CFB CURSOS</h1><br>
+<h2 aligne="center">CURSO PROGRAMAÇÃO COMPLETO C#</h2>
+
 
 - 01 [Introdução](aula01/Aula01.cs)
 - 02 [Primeiro teste](aula02/)
