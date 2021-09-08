@@ -5,8 +5,7 @@ using System;
 class Calculos {
   public int v1; //objeto
   public int v2;
-
-  public Calculos(int v1, int v2) { //parametro
+  public Calculos(int v1, int v2) { //metodo (parametros)
     this.v1 = v1;
     this.v2 = v2;
   }
