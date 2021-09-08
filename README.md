@@ -19,7 +19,7 @@
 - 19 [Loop Condicional for](aula19/)
 - 20 [Loop Condicional while](aula20/Aula20.cs)
 - 21 [Loop Condicional do while](aula21/Aula21.cs)
-- 22 [Loop condicional foreach](aula22/Aula2.cs)
+- 22 [Loop condicional foreach](aula22/Aula22.cs)
 - 23 [Métodos para Arrays](aula23/Aula23.cs)
 - 24 [Métodos](aula24/)
 - 25 [Passagem por valor e por referência](aula25/Aula25.cs)
