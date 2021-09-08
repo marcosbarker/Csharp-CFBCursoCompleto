@@ -1,0 +1,3 @@
+- 1 [Introdução](aula01/Aula01.cs)
+- 2 [Primeiro teste](aula02/)
+- 3 [Variáveis](aula03/Aula03.cs)
