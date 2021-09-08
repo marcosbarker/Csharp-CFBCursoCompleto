@@ -1,5 +1,6 @@
+<p>
 <img align="center" height="200px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_original_logo_icon_146578.png" alt="logoC#" />
-
+</p>
 <h1 align="center">CFB CURSOS</h1><br>
 <h2 align="center">CURSO PROGRAMAÇÃO COMPLETO C#</h2>
 
