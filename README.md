@@ -36,7 +36,7 @@ CURSO PROGRAMAÇÃO COMPLETO C#</h1>
 - 30 [Sobrecarga de Construtores](aula30/Aula30.cs)
 - 31 [Classes Static](aula31/Aula31.cs)
 - 32 [This](aula32/Aula32.cs)
-- 33 []()
+- 33 [Public vs Private](aula33/)
 - 34 []()
 - 35 []()
 - 36 []()
