@@ -24,7 +24,7 @@ class Aula32 {
     Console.Write("Entre com o segundo numero: ");
     v2 = int.Parse(Console.ReadLine());
 
-     Calculos c = new Calculos(v1, v2);
+     Calculos c = new Calculos(v1, v2);//declaracao de objeto
 
      Console.WriteLine("A soma de {0} com {1} é {2}", v1, v2, c.somar());
   }
