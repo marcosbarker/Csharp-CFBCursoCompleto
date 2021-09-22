@@ -1,7 +1,6 @@
 using System;
 //metodos virtuais
 //pode ser sobrescrito por uma classe derivada
-
 class Base {
   public Base() {
     Console.WriteLine("Construtor da classe base");
