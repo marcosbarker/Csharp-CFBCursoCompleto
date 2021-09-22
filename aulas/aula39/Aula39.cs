@@ -1,6 +1,6 @@
 using System;
 //Classes e métodos abstratos
-//é uma classe de referencia, serve como base
+//é uma classe de referencia, serve como base para classes derivadas
 //não é implementado o comportamento do metodo
 //quem herda a classe abstrata é obrigado a implementar os metodos
 //não se pode instanciar objetos de uma classe abstrata
@@ -17,17 +17,28 @@ abstract class Veiculo { //classe base abstrata
   public void setLigado(bool ligado) { 
     this.ligado = ligado;
   }
-  abstract public void aceleracao();
+  public int getVelAtual() {
+    return velAtual;
+  }
+   abstract public void aceleracao(int mult);
 }
 
 class Carro : Veiculo {
-  carro() { //construtor
-    
+  public Carro() { //construtor
+    velMaxima = 120;
+  }
+  override public void aceleracao(int mult) {
+    velAtual += 10 * mult;
   }
 }
 
 class Aula39 { 
   static void Main() {
 
+    Carro carro1 = new Carro();
+
+    carro1.aceleracao(1);
+
+    Console.WriteLine("Velocidade atual: " + carro1.getVelAtual());
   }
 }
