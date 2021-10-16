@@ -45,3 +45,5 @@ CURSO PROGRAMAÇÃO COMPLETO C#</h1>
 - 39 [Classes e Métodos Abstratos](aulas/aula39)
 - 40 [Classe Sealed](aulas/aula40)
 - 41 [Assessores GET e SET](aulas/aula41/)
+- 42 [Indexadores de Classes](aulas/aula42/)
+- 43 [Interfaces](aulas/aula43/)
