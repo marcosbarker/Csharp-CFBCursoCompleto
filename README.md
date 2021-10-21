@@ -47,3 +47,4 @@ CURSO PROGRAMAÇÃO COMPLETO C#</h1>
 - 41 [Assessores GET e SET](aulas/aula41/)
 - 42 [Indexadores de Classes](aulas/aula42/)
 - 43 [Interfaces](aulas/aula43/)
+- 44 [Struct](aulas/aula44/)
